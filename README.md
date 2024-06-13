@@ -1,4 +1,6 @@
-# Unsupervised_Learning
+# Unsupervised_Learning 
+
+Here we are using **K-means** - It is a centroid based clustering technique which uses Euclidian distance as distance metrics.
 
 
 
